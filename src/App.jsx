@@ -57,7 +57,7 @@ function App() {
                 <li>HTML/CSS</li>
                 <li>C++</li>
                 <li>sci-kit</li>
-                <li>Git</li>
+                <li>TypeScript</li>
               </ul>
             </div>
           </div>
